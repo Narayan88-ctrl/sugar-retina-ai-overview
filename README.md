@@ -23,6 +23,7 @@ Current stage:
 
 - prototype in development
 - initial AI pipeline built
+- public overview repository published
 - validation and partnership exploration in progress
 
 ## High-level technical direction
@@ -35,11 +36,11 @@ This project is being developed with a focus on:
 - backend API integration
 - usable workflow design for real-world deployment
 
-## Important note
+## Public repository scope
 
 This public repository is intentionally limited to a project overview.
 
-The core source code, internal implementation details, training pipeline, and research assets remain private.
+The core source code, internal implementation details, training pipeline, datasets, and research assets remain private.
 
 ## Founder
 
@@ -49,4 +50,7 @@ Switzerland
 
 ## Contact
 
-For collaboration, validation, or pilot discussion, please connect via LinkedIn.
+For collaboration, validation, or pilot discussion, please connect via LinkedIn:
+
+- https://www.linkedin.com/in/narayanranabhat
+
